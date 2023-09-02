@@ -1,0 +1,43 @@
+{
+    "workbench.colorCustomizations": {
+        // c26fa6
+        "sash.hoverBorder": "#c26fa6",
+        "activityBar.background": "#c26fa6",
+        "activityBar.activeBackground": "#c26fa6",
+        "statusBarItem.hoverBackground": "#c26fa6",
+
+        // bf0065
+        "activityBar.activeBorder": "#bf0065",
+        "activityBarBadge.background": "#bf0065",
+
+        // e7e7e7
+        "statusBar.foreground": "#e7e7e7",
+        "activityBar.foreground": "#e7e7e7",
+        "titleBar.activeForeground": "#e7e7e7",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        
+        // e7e7e799
+        "commandCenter.border": "#e7e7e799",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "activityBar.inactiveForeground": "#e7e7e799",
+
+        // 8d4976
+        "statusBar.background": "#8d4976",
+        "titleBar.activeBackground": "#8d4976",
+        "statusBarItem.remoteBackground": "#8d4976",
+
+        // bb609c99
+        "titleBar.inactiveBackground": "#bb609c99",
+    },
+    "cSpell.words": [
+        "Authed",
+        "editnote",
+        "newnote",
+        "NEXTAUTH",
+        "superjson",
+        "tailwindcss",
+        "tanstack",
+        "trpc"
+    ]
+}

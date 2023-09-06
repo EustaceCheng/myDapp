@@ -1,5 +1,3 @@
-/** @type {import("prettier").Config} */
-
 const tailwindPlugin = require.resolve('prettier-plugin-tailwindcss');
 
 module.exports = {
